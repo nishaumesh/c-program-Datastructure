@@ -11,10 +11,10 @@ int main() {
     temp = temp / 10;
   }
   if (result == n) {
-      printf("It is a prime number.\n",n);
+      printf("It is a Amstrongnumber.\n",n);
   }
   else {
-      printf("It is not a prime number.\n",n);
+      printf("It is not a Amstrongnumber.\n",n);
 }
   }
     
